@@ -1,7 +1,7 @@
-# Hi, I'm paq
+Hi, I'm Takumi Kuroda (paq)!
 
-I'm a Unity engineer interested in editor tooling and game development.
+I'm a Unity engineer with 10+ years of experience in mobile game development, with a particular interest in editor tooling.
 
 ## Open Source
 
-* Maintainer of [Alchemy](https://github.com/annulusgames/Alchemy), an attribute-based Inspector and serialization extension library for Unity.
+* Maintainer of [Alchemy](https://github.com/annulusgames/Alchemy), a Unity library for attribute-based Inspector extensions, validation, and serialization.
