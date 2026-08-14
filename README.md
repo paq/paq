@@ -1,6 +1,6 @@
 Hi, I'm Takumi Kuroda (paq)!
 
-I'm a Unity engineer with 10+ years of experience in mobile game development, with a particular interest in editor tooling.
+I'm a Unity engineer with 10+ years of experience in mobile game development, with a particular interest in editor tooling and building tools and infrastructure that support other developers.
 
 ## Open Source
 
